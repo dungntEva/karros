@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606612804474",
+    "project_id": "vib-bank-48ba2",
+    "storage_bucket": "vib-bank-48ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606612804474:android:efa0c24ee5303f62563cc3",
+        "android_client_info": {
+          "package_name": "com.vib.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606612804474-o5bcnq8odu6tp3i40e4upiu6t7eappjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vib.agent",
+            "certificate_hash": "d03df184bc257ccdf2084f81ce6867c77598a559"
+          }
+        },
+        {
+          "client_id": "606612804474-a8du2sdoagfi38gbqdhtn4fvahh2mbkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4CLwIvDf1hy1dyQc0qudvvZrmX2gL-rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606612804474-a8du2sdoagfi38gbqdhtn4fvahh2mbkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

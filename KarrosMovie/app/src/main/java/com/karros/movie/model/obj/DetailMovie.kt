@@ -1,0 +1,28 @@
+package com.karros.movie.model.obj
+
+data class DetailMovie (
+    var adult: Boolean,
+    var backdrop_path: String,
+    var belongs_to_collection: String,
+    var budget: Int,
+    var genres: ArrayList<Genres>,
+    var homepage: String,
+    var id: Int,
+    var imdb_id: String,
+    var original_language: String,
+    var original_title: String,
+    var overview: String,
+    var popularity: Float,
+    var poster_path: String,
+    var production_companies: ArrayList<ProductionCompanies>,
+    var production_countries: ArrayList<ProductionCountries>,
+    var release_date: String,
+    var revenue: Int,
+    var runtime: Int,
+    var spoken_languages: ArrayList<SpokenLanguages>,
+    var status: String,
+    var tagline: String,
+    var video: Boolean,
+    var vote_average: Float,
+    var vote_count: Int,
+)
